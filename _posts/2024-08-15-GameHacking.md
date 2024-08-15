@@ -1,5 +1,5 @@
 ---
-title: Study GameHacking
+title: Basic CheatEngine
 description: Study Basic of Cheat Engine
 author: FuzzyYeti
 date: 2024-08-12 21:21 +0800
